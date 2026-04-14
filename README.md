@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi! I'm Joy
+### A Full-Stack developer with a passion for UX
 
 <!--
 **joykrabbe/joykrabbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
